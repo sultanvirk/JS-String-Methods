@@ -1,4 +1,4 @@
-const str = 'hello world'
+const str = 'hello worlds'
 
 console.log(str[1]) // checking the value on index
 // similarly charAt() method works
